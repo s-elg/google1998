@@ -1,0 +1,40 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+img{
+    display: flex;
+    margin-right: auto;
+    margin-left: auto;
+}
+.search-text{
+    text-align: center;
+    background-color: #EEEEEE;
+    margin-right: 349px;
+    margin-left: 349px;
+    font-size: 16px;
+}
+table tr td{
+    padding-top: 1px;
+    padding-left: 75px;
+    padding-right: 75px;
+    padding-bottom: 1px;
+}
+table tr td a{
+    text-align: center;
+}
+table tr .cell1{
+    background-color: #7EE5DA;
+    font-size: 16px;
+}
+table tr .cell2{
+    background-color: #70ccc2;
+    font-size: 13px;
+}
+table tr .cell3{
+    background-color: #62b3aa;
+    font-size: 13px;
+}
+footer{
+    text-align: center;
+    font-size: 13px;
+}
